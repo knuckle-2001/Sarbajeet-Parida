@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <h1 align="center">Hi 👋, I'm Sarbajeet Parida</h1>
+<h1 align="center">Hi 👋, I'm Sarbajeet Parida</h1>
     <h3 align="center">A passionate fullstack developer from India</h3>
 
     <h3 align="left">Connect with me:</h3>
@@ -233,5 +225,3 @@
         alt="knuckle-2001"
       />
     </p>
-  </body>
-</html>
